@@ -1,0 +1,17 @@
+h1{
+    background-color: white;
+    color: purple;
+}
+.lesson {
+    background-color: lightyellow;
+    color: black;
+}
+#Email {
+    background-color: brown;
+}
+#github{
+    background-color: lightgray;
+}
+#portfolio{
+    background-color: orange
+}
